@@ -72,6 +72,14 @@ Proactum
 
 ## PROJECTS
 
+**2017:**
+Large custom build webstore.
+Soikea Solutions
+
+**2017:**
+PoC Service for measuring and showing data collected by probes.
+Soikea Solutions
+
 **2017:**			
 New business development research
 Siili Solutions
