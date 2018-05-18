@@ -72,7 +72,7 @@ Proactum
 
 ## PROJECTS
 
-**2017:**
+**2017-2018:**
 Large custom build webstore.
 Soikea Solutions
 
