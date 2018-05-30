@@ -41,10 +41,6 @@ Kuopion Lyseon lukio, baccalaureate
 
 ## SKILLS
 
-### Buzzwords				
-Java, Javascript (ES5/ES6/typescript), Scala, Groovy, Clojure, HTML, CSS, NodeJS, Spring, JUnit, PowerMock, Mockito, EasyMock, Spock, Selenium, Liferay, JSF, Alfresco, Maven, Jenkins/Hudson, Git/GitHub, SVN, REST, JSON, XML, Linux, JSP, Akka,  MongoDB, MySQL, Play Framework, Chef, Puppet, Ansible, Docker, AWS, Azure, React, Redux
-
-
 ### Project management
 
 **2016:**
@@ -52,9 +48,6 @@ Certified Scrum Master from 2016 by James Coplien
 
 **2012:**	
 Professional Scrum Master certificate from the spring of 2012 by Samuli Hello 
-
-
-
 
 ### Team lead
 
@@ -69,69 +62,81 @@ Proactum
 
 
 
-
 ## PROJECTS
 
-**2017-2018:**
-Large custom build webstore.
+**2017-2018:**  
+Developer in a large custom build webstore.  
+Javascript, React, Alt.js, scss, Webpack, Java EE, Crnk.io, Maven, Docker  
 Soikea Solutions
 
-**2017:**
-PoC Service for measuring and showing data collected by probes.
+**2017:**  
+Developer in PoC Service for measuring and showing data collected by probes.  
+.Net Core, C#, Typescript, React, Redux, stylus  
 Soikea Solutions
 
-**2017:**			
-New business development research
+**2017:**  
+New business development research  
 Siili Solutions
 
-**2016 – 2017:**				
-PoC for an online store
+**2016 – 2017:**  
+Developer in a PoC for an online store  
+ClojureScript, Reagent, Azure  
 Siili Solutions
 						
-**2016:**					
-Scrum master for one of the teams creating op.fi
+**2016:**  
+Scrum master for one of the teams creating op.fi  
 Siili Solutions
 				
-**2016:**					
-Custom ERP development for Elisa Appelsiini’s customer
+**2016:**  
+Developer in a custom ERP development for Elisa Appelsiini’s customer  
+Java, JSF, PrimeFaces, EJB, JPA, Hibernate, SQL Server  
 Siili Solutions
 
-**2015 – 2016:**				
-Digital service development for National land survey of Finland
+**2015 – 2016:**  
+Developer in a digital service development for National land survey of Finland  
+Java, Javascript, Chef, Vagrant, Ansible, ES6, Redux, React, Jenkins, Selenium, Docker  
 Siili Solutions
 
-**2015 – 2015:**				
-Payment gateway integration and development project
+**2015 – 2015:**  
+Developer in a payment gateway integration and development project  
+Java, Akka, Puppet, Jersey, swagger, maven, tomcat
 Siili Solutions
 
-**2014 – 2014:**				
-Customer service desktop application development project
+**2014 – 2014:**  
+Developer in a customer service desktop application development project  
+AngularJS, HTML5, IE9, Tomcat, Node.js, Java, MongoDB, Stylus, Jade, Jake, Windows Server 2008, Scala, Play Framework 2, Azure  
 Siili Solutions
 
-**2012 – 2013:**				
-Finnish transport agency case and document management project
+**2012 – 2013:**  
+Developer in a Finnish transport agency case and document management project  
+Liferay, JPA, Java, jivalo, Spring FW, Twitter Bootstrap, Alfresco, jQuery, JSP, Apache Tiles, Jackson, REST, Spring Surf, YUI  
 Proactum
 
-**2010 – 2012:**				
-YritysSuomi.fi web portal and publishing system
+**2010 – 2012:**				  
+YritysSuomi.fi web portal and publishing system  
 Proactum
 
-**2010 – 2012:**				
-Elinkeinoelämän Keskusliitto (EK) case management system
+**2010 – 2012:**  
+Elinkeinoelämän Keskusliitto (EK) case management system  
+Liferay, Alfresco, IceFaces, MySQL  
 Proactum
 
-**2010:**					
-Sibelius Academy intranet
+**2010:**					  
+Sibelius Academy intranet  
+Liferay  
 Proactum
 
-**2009 – 2010:** 			
-ToimintaSuomi.fi web portal and publishing system
+**2009 – 2010:** 			  
+ToimintaSuomi.fi web portal and publishing system  
+Liferay, Alfresco, JSF, Spring FW, MySQL
 Proactum
 
-**2008 – 2010:**			
-TerveSuomi.fi web portal and publishing system
+**2008 – 2010:**			  
+TerveSuomi.fi web portal and publishing system  
+Liferay, Alfresco, JSF, Spring FW, MySQL
 Proactum
 
-**2008 – 2010:**				
-THL.fi web portal and publishing system
+**2008 – 2010:**			  	
+THL.fi web portal and publishing system  
+Liferay, Alfresco, JSF, Spring FW, MySQL
 Proactum
