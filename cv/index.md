@@ -65,12 +65,12 @@ Proactum
 ## PROJECTS
 
 **2017-2018:**  
-Developer in a large custom build webstore.  
+Developer in a large custom build webstore for a customer.  
 Javascript, React, Alt.js, scss, Webpack, Java EE, Crnk.io, Maven, Docker  
 Soikea Solutions
 
 **2017:**  
-Developer in PoC Service for measuring and showing data collected by probes.  
+Developer in PoC Service for measuring and showing data collected by probes for a customer.  
 .Net Core, C#, Typescript, React, Redux, stylus  
 Soikea Solutions
 
