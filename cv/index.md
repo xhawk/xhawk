@@ -75,7 +75,7 @@ Developer in PoC Service for measuring and showing data collected by probes for 
 Soikea Solutions
 
 **2017:**  
-New business development research  
+New business development research for a customer  
 Siili Solutions
 
 **2016 – 2017:**  
